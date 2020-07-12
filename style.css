@@ -1,0 +1,155 @@
+body{
+  margin:0;
+ text-align: center;
+
+color: #40514e;
+
+
+}
+h1{
+  margin-top: 0;
+font-family: 'Shadows Into Light', cursive;
+color: #66BFBF;
+font-size: 50px;
+line-height: 2;
+
+}
+h2{
+  margin-top: 0;
+font-family: 'Shadows Into Light', cursive;
+color: #66BFBF;
+font-size: 50px;
+line-height: 2;
+padding-bottom: 10px;
+
+}
+h3{
+  font-family:  sans-serif;
+  color: #66BFBF;
+  font-weight: normal;
+  font-size: 20px;
+}
+p{
+  line-height: 2;
+}
+hr{
+border: dotted #eaf6f6 6px;
+border-bottom: none;
+width: 4%;
+margin: 100px auto;
+}
+.Intro{
+  width: 30%;
+  margin: auto;
+}
+.profile{
+  margin-top: 20px;
+}
+.t-c{
+  background-color: #ddf3f5;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container{
+
+}
+.bottom-container{
+background-color: #66bfbf;
+padding: 50px 0 20px;
+}
+.skill-row{
+  width:50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+a{
+  color: #11999e;
+  font-family:  sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #eaf6f6;
+}
+.copywrite{
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0px;
+}
+.pro{
+  text-decoration: underline;
+}
+.btn{
+	-moz-box-shadow: 0px 0px 0px 2px #9fb4f2;
+	-webkit-box-shadow: 0px 0px 0px 2px #9fb4f2;
+	box-shadow: 0px 0px 0px 2px #9fb4f2;
+	background-color:#11cdd4;
+	-webkit-border-top-left-radius:5px;
+	-moz-border-radius-topleft:5px;
+	border-top-left-radius:5px;
+	-webkit-border-top-right-radius:5px;
+	-moz-border-radius-topright:5px;
+	border-top-right-radius:5px;
+	-webkit-border-bottom-right-radius:5px;
+	-moz-border-radius-bottomright:5px;
+	border-bottom-right-radius:5px;
+	-webkit-border-bottom-left-radius:5px;
+	-moz-border-radius-bottomleft:5px;
+	border-bottom-left-radius:5px;
+text-indent:0;
+	border:1px solid #4e6096;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+height:35px;
+	line-height:35px;
+width:116px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px 1px 0px #283966;
+  margin-bottom: 20px
+}.btn:hover {
+	background-color:#11999e;
+}.btn:active {
+	position:relative;
+	top:1px;
+}
+.mountain{
+  width: 20%;
+  position: relative;
+  bottom: 5px;
+
+}
+.b-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+
+}
+.t-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.iitd{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+.Hello{
+  width: 12%;
+}
+.computer{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.contact-msg{
+  width: 40%;
+  margin: 40px auto 60px;
+}
